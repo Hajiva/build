@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for IT Technologies </h2>
 <h2> hello Darling </h2>
 <h3>image1<h3>
-<img src="https://hajivali.s3.ap-southeast-2.amazonaws.com/haji+image.jpeg" alt="this is for practice" style="length:1200px; width:900px"></img>
+<img src="https://hajivali.s3.ap-southeast-2.amazonaws.com/haji+image.jpeg" alt="this is for practice" style="length:500px; width:900px"></img>
