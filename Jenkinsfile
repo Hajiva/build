@@ -13,7 +13,7 @@ pipeline{
       }
       stage("checkout"){
         steps{
-         git branch: 'main', url: 'https://github.com/vasudevas9030/build.git'
+         git branch: 'main', url: 'https://github.com/Hajiva/build.git'
         }
       }
       stage("build"){
